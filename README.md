@@ -39,4 +39,3 @@
 > Remove MIUI\'s performance limit, run app at maximum FPS
 
 UI from [XAppDebug](https://github.com/Palatis/XAppDebug), thanks~
-
